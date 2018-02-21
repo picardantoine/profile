@@ -1,0 +1,81 @@
+.img-circle {
+  border-radius: 100px;
+  width: 200px;
+}
+
+.img {
+  width :400px;
+}
+
+.container {
+  text-align: center;
+  margin: 10px auto;
+  width: 1000px;
+}
+
+h1 {
+  font-family: "Roboto+slab";
+  font-size: 30px;
+  font-weight: 900;
+  letter-spacing: 5px;
+}
+
+h2 {
+  font-family: "Montserrat";
+  font-size: 20px;
+  font-weight: 400;
+}
+
+p {
+  font-family: "Roboto";
+  font-size: 15px;
+  text-align: center;
+}
+
+.lien {
+  text-decoration: none;
+  text-decoration-color: white;
+  font-family: "Roboto";
+  font-size: 15px;
+  color: rgba(0, 0, 0, 0.6) ;
+  text-align: center;
+}
+
+.lien:hover {
+  text-decoration: none;
+  text-decoration-color: white;
+  font-family: "Roboto";
+  font-size: 15px;
+  color: rgba(0, 0, 0, 0.1) ;
+  text-align: center;
+}
+
+.boutton-rouge {
+  background-color: red;
+  padding: 15px;
+  border-radius: 10px;
+  font-color: white;
+}
+
+
+body {
+  background-image:url(https://images.unsplash.com/photo-1518280832347-3ed3c2166b64?ixlib=rb-0.3.5&s=71e2aaf6bc1890ec59c049d9e24e2a50&auto=format&fit=crop&w=3302&q=80);
+  background-size: cover;
+  line-height: 20px;
+}
+
+.films {
+  line-height: 40px;
+}
+
+
+.card-white {
+  background-color: rgba(250, 250, 250, 0.8);
+  padding: 20px;
+  box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
+  width: 800px;
+  margin: 10px auto;
+  text-align: center;
+  border-radius: 5px;
+}
+
